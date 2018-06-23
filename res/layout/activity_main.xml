@@ -8,6 +8,7 @@
     android:orientation="vertical">
 
         <TextView
+            style="@style/regtext1"
             android:id="@+id/Spring"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -17,6 +18,7 @@
             android:textStyle="bold" />
 
         <TextView
+            style="@style/regtext2"
             android:id="@+id/Summer"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -26,6 +28,7 @@
             android:textStyle="bold" />
 
         <TextView
+            style="@style/regtext3"
             android:id="@+id/Winter"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -35,6 +38,7 @@
             android:textStyle="bold" />
 
         <TextView
+            style="@style/regtext4"
             android:id="@+id/Fall"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"

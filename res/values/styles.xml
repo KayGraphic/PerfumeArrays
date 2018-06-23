@@ -8,4 +8,30 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+    <style name = "regtext1">
+    <item name="android:background">@color/colorBackground1</item>
+        <item name="android:padding">12dp</item>
+        <item name="android:textSize">24sp</item>
+    </style>
+    <style name = "regtext2">
+        <item name="android:background">@color/colorBackground2</item>
+        <item name="android:padding">12dp</item>
+        <item name="android:textSize">24sp</item>
+    </style>
+    <style name = "regtext3">
+        <item name="android:background">@color/colorBackground3</item>
+        <item name="android:padding">12dp</item>
+        <item name="android:textSize">24sp</item>
+    </style>
+    <style name = "regtext4">
+        <item name="android:background">@color/colorBackground4</item>
+        <item name="android:padding">12dp</item>
+        <item name="android:textSize">24sp</item>
+
+    </style>
+    <style name = "regtext5">
+        <item name="android:background">@color/colorBackground5</item>
+        <item name="android:padding">12dp</item>
+        <item name="android:textSize">24sp</item>
+    </style>
 </resources>
