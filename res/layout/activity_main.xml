@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    tools:context=".MainActivity"
+    android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/Spring"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="Spring"
+            android:text="Spring"
+            android:textSize="30sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/Summer"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="Summer"
+            android:text="Summer"
+            android:textSize="30sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/Winter"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="Winter"
+            android:text="Winter"
+            android:textSize="30sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/Fall"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="Fall"
+            android:text="Fall"
+            android:textSize="30sp"
+            android:textStyle="bold" />
+
+
+    </LinearLayout>
+
+
